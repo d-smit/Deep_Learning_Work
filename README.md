@@ -1,7 +1,7 @@
 # Deep_Learning_Work
 
 This work was done as a group project aiming to classify two datasets, one image-based and one text. This author, David Smith,
-contributed the text analysis, which this document discusses. A short report of this analysis can be found ![here](
+contributed the text analysis, which this document discusses. A short report of this analysis can be found [here](report.pdf).
 
 ## Sentiment Analysis of the IMDb Movie Review Dataset
 
